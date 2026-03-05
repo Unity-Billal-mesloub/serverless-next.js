@@ -114,4 +114,4 @@ We have configured Rollup to be able to bundle dynamic imports into `default-han
 
 Note: in this example, for `@aws-sdk` (V3), we import from as deep as possible so that Rollup.js will have a minimal bundle size.
 
-For code size, you can use tools like [BundlePhobia](https://bundlephobia.com/) to approximate the cost of adding a new dependency.
+
