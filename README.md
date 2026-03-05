@@ -1,5 +1,5 @@
 # Serverless Next.js Component
-
+![logo](./img/logo.gif)
 [![serverless](http://public.serverless.com/badges/v3.svg)](https://www.serverless.com)
 [![GitHub contributors](https://img.shields.io/github/contributors/serverless-nextjs/serverless-next.js)](https://github.com/Unity-Billal-mesloub/serverless-next.js/graphs/contributors)
 [![Financial Contributors on Open Collective](https://opencollective.com/serverless-nextjs-plugin/all/badge.svg?label=backers)](https://opencollective.com/serverless-nextjs-plugin)
